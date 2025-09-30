@@ -40,7 +40,7 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
 
   Git
 
-###Passo a Passo
+### Passo a Passo
 
 1.**Clone este repositório para a sua máquina:**
 
