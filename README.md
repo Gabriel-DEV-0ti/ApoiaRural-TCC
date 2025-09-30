@@ -41,18 +41,13 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
   Git
 
 Passo a Passo
-1.Clone o repositório:
-  # Clone o projeto
+# Clone o projeto
   git clone <URL-DO-REPOSITÓRIO>
-2.Acesse o diretório do frontend:
-  # Entre na pasta do frontend
+# Entre na pasta do frontend
   cd ApoiaRural/frontend/react-front
-3.Instale as dependências do projeto:
-  (Este comando irá baixar todas as bibliotecas necessárias para a aplicação)
-  # Instale as dependências
+# Instale as dependências
   npm install
-4.Inicie o servidor de desenvolvimento:
-  # Rode a aplicação
+# Rode a aplicação
   npm run dev
-5.Acesse a aplicação:
+#Acesse a aplicação:
   Pronto! Abra seu navegador e acesse http://localhost:5173 para ver o projeto funcionando.
