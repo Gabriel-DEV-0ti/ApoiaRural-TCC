@@ -5,7 +5,7 @@ O ApoiaRural é uma plataforma de rede social criada com o objetivo de transform
 
 Através de nossa plataforma, agricultores podem compartilhar suas histórias, necessidades e produtos, enquanto apoiadores podem descobrir, interagir e oferecer suporte de maneira ágil e dinâmica.
 
-✨ Principais Funcionalidades
+### ✨ Principais Funcionalidades
 Feed de Notícias: Acompanhe as últimas publicações dos agricultores que você segue.
 
 Perfis Personalizados: Tanto agricultores quanto apoiadores podem criar perfis detalhados.
