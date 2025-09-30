@@ -42,26 +42,27 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
 
 ### Passo a Passo
 
-1.**Clone este repositório para a sua máquina:**
+1. **Clone este repositório para a sua máquina:**
 
 ```bash
 git clone <URL-DO-SEU-REPOSITÓRIO>
 ```
 
-2.**Navegue até a pasta do projeto e, em seguida, para o frontend:**
+2. **Navegue até a pasta do projeto e, em seguida, para o frontend:**
 ```bash
 cd ApoiaRural-Completo/frontend/react-front
 ```
 
-3.**Instale todas as dependências necessárias com o npm:**
+3. **Instale todas as dependências necessárias com o npm:**
 (Este comando irá baixar as bibliotecas que o projeto utiliza)
 ```bash
 npm install
 ```
 
-4.**Inicie o servidor de desenvolvimento para rodar o projeto:**
+4. **Inicie o servidor de desenvolvimento para rodar o projeto:**
 ```bash
 npm run dev
 ```
-5.**Acesse a aplicação no seu navegador:**
+5. **Acesse a aplicação no seu navegador:**
+   
 Pronto! O projeto estará rodando em http://localhost:5173.
