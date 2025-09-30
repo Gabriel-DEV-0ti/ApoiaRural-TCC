@@ -42,6 +42,7 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
 
 Passo a Passo
 1.Clone este repositório para a sua máquina:
+
 **`git clone <URL-DO-SEU-REPOSITÓRIO>`**
 
 2.Navegue até a pasta do projeto e, em seguida, para o frontend:
