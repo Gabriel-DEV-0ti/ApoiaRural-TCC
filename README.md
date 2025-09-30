@@ -39,15 +39,4 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
   Node.js (versão LTS recomendada)
 
   Git
-
-Passo a Passo
-# Clone o projeto
-  git clone <URL-DO-REPOSITÓRIO>
-# Entre na pasta do frontend
-  cd ApoiaRural/frontend/react-front
-# Instale as dependências
-  npm install
-# Rode a aplicação
-  npm run dev
-#Acesse a aplicação:
-  Pronto! Abra seu navegador e acesse http://localhost:5173 para ver o projeto funcionando.
+  git clone <URL-do-repositório>
