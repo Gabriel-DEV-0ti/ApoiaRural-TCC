@@ -57,3 +57,26 @@ npm run dev
 
 5.Acesse a aplicação no seu navegador:
 Pronto! O projeto estará rodando em http://localhost:5173.
+
+
+
+### ⚙️ Guia de Instalação e Execução
+
+Siga os passos abaixo para rodar o projeto.
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone <URL-DO-REPOSITÓRIO>
+    cd ApoiaRural
+    ```
+
+2.  **Acesse o diretório do frontend e instale as dependências:**
+    ```bash
+    cd frontend/react-front
+    npm install
+    ```
+
+3.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm run dev
+    ```
