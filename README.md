@@ -39,4 +39,29 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
   Node.js (versão LTS recomendada)
 
   Git
-  git clone <URL-do-repositório>
+
+Passo a Passo
+Clone o repositório:
+
+Bash
+
+git clone <URL-DO-REPOSITÓRIO>
+cd ApoiaRural
+Acesse o diretório do frontend:
+
+Bash
+
+cd frontend/react-front
+Instale as dependências do projeto:
+(Este comando irá baixar todas as bibliotecas necessárias para a aplicação)
+
+Bash
+
+npm install
+Inicie o servidor de desenvolvimento:
+
+Bash
+
+npm run dev
+Acesse a aplicação:
+Pronto! Abra seu navegador e acesse http://localhost:5173 para ver o projeto funcionando.
