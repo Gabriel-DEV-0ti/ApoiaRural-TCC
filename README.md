@@ -30,7 +30,7 @@ Banco de Dados: MySQL
 * [Victor Xavier](https://github.com/VictorTadiela)
 * [Wellington Junio](https://github.com/WellingtonJunioSilva)
 
-### ⚙️ Guia de Instalação e Execução
+## ⚙️ Guia de Instalação e Execução
 Siga os passos abaixo para rodar a interface do projeto em seu ambiente local.
 
 Pré-requisitos
@@ -40,7 +40,8 @@ Antes de começar, certifique-se de que você tem os seguintes softwares instala
 
   Git
 
-Passo a Passo
+###Passo a Passo
+
 1.**Clone este repositório para a sua máquina:**
 
 ```bash
@@ -52,8 +53,8 @@ git clone <URL-DO-SEU-REPOSITÓRIO>
 cd ApoiaRural-Completo/frontend/react-front
 ```
 
-3.**Instale todas as dependências necessárias com o npm:
-(Este comando irá baixar as bibliotecas que o projeto utiliza)**
+3.**Instale todas as dependências necessárias com o npm:**
+(Este comando irá baixar as bibliotecas que o projeto utiliza)
 ```bash
 npm install
 ```
