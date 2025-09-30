@@ -14,7 +14,8 @@ Sistema de Conexão: Conecte-se com outros usuários para criar uma rede forte e
 
 Criação de Posts: Compartilhe atualizações, fotos, vídeos e necessidades da sua produção.
 
-🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
+
 Frontend: React.js
 
 Backend: Java com Spring Boot
