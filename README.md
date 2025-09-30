@@ -37,9 +37,9 @@ Siga os passos abaixo para rodar a interface do projeto em seu ambiente local.
 Pré-requisitos
 Antes de começar, certifique-se de que você tem os seguintes softwares instalados:
 
-  Node.js (versão LTS recomendada)
+  .Node.js (versão LTS recomendada)
 
-  Git
+  .Git
 
 ### Passo a Passo
 
